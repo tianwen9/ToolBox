@@ -1,0 +1,12 @@
+#阻止Chrome更新
+127.0.0.1 update.googleapis.com
+127.0.0.1 tools.google.com
+
+#阻止Sublime Text更新
+127.0.0.1 www.sublimetext.com
+
+#edge商店
+131.253.33.219 edge.microsoft.com
+131.253.33.219 msedgeextensions.sf.tlu.dl.delivery.mp.microsoft.com
+
+
